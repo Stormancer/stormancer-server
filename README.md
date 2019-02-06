@@ -2,6 +2,6 @@
 # stormancer-server
 Stormancer server releases
 
-Current stable version is v2.5.1
+From version 2.8.3 onwards, the server is distributed as a Windows service instead of a regular executable. See the readme file inside the release package for more details.
 
-v2.6 is currently tested, and a brand new v3 that runs on .net Core is in development
+A brand new v3 that runs on .net Core is in development.
